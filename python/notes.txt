@@ -1,0 +1,4 @@
+wichtig:
+airmon-ng check
+
+airdodump-ng wlan0
